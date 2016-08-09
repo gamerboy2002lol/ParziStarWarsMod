@@ -48,21 +48,21 @@ A: The short answer is no, and the long answer is too long.
 
 ###Q: Speaking of new content when is the next update and what are you adding?
 
-A: Go look at the Next Update Info tab on our site for info and a few small spoilers about new content.  As for when, we're always working so it's just whenever we feel the next release has enough content and is stable enough to be called a release that we actually put out a new version.  Usually though you're looking at a little over 2 months between major versions, and it could be slightly longer depending on the amount and complexity of things we're adding.
+A: Go look at the Next Update Info tab on our site for info and a few small spoilers about new content.  As for when, we're always working so it's just whenever we feel the next release has enough content and is stable enough to be called a release that we actually put out a new version.  Sometimes (as with 1.3), we will choose to be publicly inactive for a while and work privately on a huge update which we will release without a timeline.  1.3 took about 4-5 months, so take that as an example of possible timelines.  **This does not mean we are not working, so please try to be respectful of how and when we push releases, because we are ALWAYS working on PSWM and have many releases fully planned out, things just take time.**
 
 
 
 
 ###Q: Where are purple lightsabers and Jar Jar and Battle Droids and Clones?
 
-A: Not yet added.
+A: Purple Lightsabers are in 1.3, but you're gonna have to wait for the other stuff.
 
 
 
 
 ###Q: Choose jedi or sith? Class system?
 
-A: Maybe, but it won't be what you think. There most likely won't be a GUI.
+A: The Questing system in 1.3 allows for faction choosing.
 
 
 
@@ -76,8 +76,7 @@ A: NPC's are tied to structures, so unless we have a Jedi Temple during the time
 
 ###Q: Double lightsabers, pls?
 
-A:
-> "We've got to give him more time!" - *Lando Calrissian*
+A: 1.3 has multiple double bladed lightsabers to choose from.
 
 
 
@@ -91,13 +90,6 @@ A: We can't guarantee compatibility with everything, but we would like to make P
 ###Q: 1.8?
 
 A: Not right now.
-
-
-
-
-###Q: Factions!
-
-A: We want the player to be free and choose their own path, not chain themselves down to one specific person or race because we don't see the fun in that.  That being said, there will be some sort of gameplay advantages/disadvantages to playing certain ways/doing certain quests/doing certain actions/talking to certain NPC's.
 
 
 
@@ -130,9 +122,9 @@ A: They're not, they just fly faster than most chunks can load/reload if you hav
 
 
 
-###Q: Where are main character armors like Darth Vader and Kylo Ren?
+###Q: Where are 3D armors and bosses for main character armors like Darth Vader and Kylo Ren?
 
-A: Not yet added.
+A: Here's the thing.  3D armors take a lot of time because of all the things that have to happen for them to work correctly.  As for bosses, we aren't interested in doing boss fights as of the 1.3 release, but that could change, who knows.
 
 
 
