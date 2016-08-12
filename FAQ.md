@@ -27,7 +27,7 @@ A: If you have examples of your work somewhere public online and we see it and w
 
 ###Q: Will you be adding Clone Wars, Rebels, Old Republic, etc. content?
 
-A: We will be adding as much content as our humble team possible can.  That content will span across many different time periods and timelines.
+A: We will be adding as much content as our humble team possibly can.  That content will span across many different time periods and timelines.
 
 
 
