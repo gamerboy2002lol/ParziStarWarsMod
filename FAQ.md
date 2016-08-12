@@ -69,7 +69,7 @@ A: The Questing system in 1.3 allows for faction choosing.
 
 ###Q: Add Jedi and Sith NPC's and have them spawn and stuff!!
 
-A: NPC's are tied to structures, so unless we have a Jedi Temple during the time of the Galactic Republic, you won't see any Jedi roaming the dimensions.  As for Sith, there were only ever 2 Sith at a time and were extremly hard to find so you probably won't ever see any Sith roaming around in the wild either.
+A: NPC's are tied to structures, so unless we have a Jedi Temple during the time of the Galactic Republic, you won't see any Jedi roaming the dimensions.  The Original Trilogy also only had 3 Jedi so the numbers just don't make sense for them to be mobs that spawn. (We're talking about movie-specific Canon here, not any new characters/information that has recently been introduced.)  As for Sith, there were only ever 2 Sith at a time and they were extremly hard to find so you probably won't ever see any Sith roaming around in the wild either.
 
 
 
